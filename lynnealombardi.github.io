@@ -13,6 +13,16 @@
     </head>
     <body>
         <header>
+        <div>
+        <video loop muted autoplay>
+        <course src='assets/background-video.mp4' type='video/mp4'>
+        </video>
+        </div>
+        <img alt="Profile Picture" src='assets/background-video.mp4' type='video/mp4'>
+        </video>
+        <h1>Lynnea Lombardi</h1>
+        <h2>normal person</h2>
+        <div></div>
         </header>
         <main class='container-fluid'>
             <section>
